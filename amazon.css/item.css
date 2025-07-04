@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#navbar{
+    background-color: #0f1111;
+    height: 60px;
+
+}
+.cos{
+    margin-left: 150px;
+}
+#logo{
+    font-size: 20px;
+    color: #f08804;
+}
+#A{
+    color: #f08804;
+
+}
+.sin{ 
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   display: inline-block;
+   margin-top: 10px;
+}
+img{
+    width: 300px;
+    height: 300px;
+    border: 3px solid wheat;
+   
+
+}
+a{
+    text-decoration: none;
+}
